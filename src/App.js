@@ -15,7 +15,7 @@ function App() {
   };
   return (
    <>
-   <div style={bgStyle} className='p-12'>
+   <div  className='p-12 bg-image'>
    <div className='p-12   bg-gray-900'>
       <div className="bg-black shadow-lg shadow-cyan-500 p-5 text-white">
 
