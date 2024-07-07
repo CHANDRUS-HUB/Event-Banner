@@ -3,21 +3,15 @@ import './App.css';
 import React from 'react';
 import Event1 from './img/event1.png';
 import Event2 from './img/event2.png';
-import Event3 from './img/bg.png';
+
 
 function App() {
-  const bgStyle = {
-    backgroundImage: `url(${Event3})`,
-    backgroundSize: 'cover',
-    backgroundPosition: 'center',
-    minHeight: '100vh',
-    color: 'white',
-  };
+
   return (
    <>
-   <div  className='p-12 bg-image'>
-   <div className='p-12   bg-gray-900'>
-      <div className="bg-black shadow-lg shadow-cyan-500 p-5 text-white">
+   <div  className='p-12 '>
+   <div className='p-12 bg-image  '>
+      <div className="bg-black opacity-25 shadow-lg shadow-cyan-500 p-5 text-white">
 
         <h1 className="text-5x2 font-extrabold">
           <span className="text-xl text-cyan-400">
