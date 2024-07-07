@@ -11,7 +11,7 @@ function App() {
    <>
    <div  className=' '>
    <div className='p-12 bg-image  '>
-      <div className="bg-black opacity-50 shadow-lg shadow-cyan-500 p-5 text-white">
+      <div className="bg-black opacity-75 shadow-lg shadow-cyan-500 p-5 text-white">
 
         <h1 className="text-5x2 font-extrabold">
           <span className="text-xl text-cyan-400">
