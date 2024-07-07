@@ -9,7 +9,7 @@ function App() {
 
   return (
    <>
-   <div  className='p-12 '>
+   <div  className=' '>
    <div className='p-12 bg-image  '>
       <div className="bg-black opacity-25 shadow-lg shadow-cyan-500 p-5 text-white">
 
