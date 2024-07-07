@@ -7,5 +7,6 @@
     backgroundSize: 'cover';
     backgroundPosition: 'center';
     minHeight: '100vh';
+     background-repeat: no-repeat;
     color: 'white';
 }
