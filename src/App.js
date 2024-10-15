@@ -101,7 +101,7 @@ function App() {
 
           <h1 className="justify-center">
             <a className="text-lg" href="https://www.myntra.com/"><span
-              className="font-bold text-pink-600 hover:text-pink-500 underline  bg-green-500 ">Fashion Store</span>
+              className="font-bold text-pink-600 hover:text-pink-500 underline   ">Fashion Store</span>
             </a>
           </h1>
           <h2 className="text-lg mt-2 text-yellow-400">
